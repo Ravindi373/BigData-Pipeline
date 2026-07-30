@@ -1,0 +1,8 @@
+Metric,Count
+541910,Total Raw Records
+135080,Null CustomerID Removed
+8905,Negative Quantity Removed
+0,Cancelled Invoices Removed
+40,Invalid Prices Removed
+5192,Duplicates Removed
+392693,FINAL SILVER Records
